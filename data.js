@@ -9,7 +9,7 @@ export const profile = {
   resume: 'https://drive.google.com/file/d/1zRhbnU0T8BPOreml1k8NziqslRDm-dMw/view?usp=sharing',
 
 
-  photo: '/Photo.jpeg',
+  photo: '/Photo.jpg',
 }
 
 export const techChips = [
